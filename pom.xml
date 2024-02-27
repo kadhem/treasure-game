@@ -45,7 +45,7 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-jar-plugin</artifactId>
                 <configuration>
-                    <finalName>treasure-game.jar</finalName>
+                    <finalName>treasure-game</finalName>
                     <archive>
                         <manifest>
                             <mainClass>org.game.Launcher</mainClass>
